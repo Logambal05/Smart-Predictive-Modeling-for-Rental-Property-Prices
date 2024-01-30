@@ -23,7 +23,6 @@ The goal of this project is to develop a predictive model that accurately foreca
 
 ## Technologies Used
 
-Sure, here's a concise explanation tailored to your project:
 
 1. **Data Cleansing:** Prepared the dataset by handling missing values, outliers, and ensured consistency in property attributes to improve the quality and reliability of rental data.
   
